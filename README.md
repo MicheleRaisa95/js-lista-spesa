@@ -8,4 +8,6 @@ creo ciclo while
 
 dentro al ciclo creo elemento li
 
+assegno contenuto array agli elementi li 
+
 

@@ -21,6 +21,12 @@ const listaDellaSpesaUl = document. getElementById("listaspesa")
 let i = 0
 
 while (i < listaDellaSpesa.length ) {
+
+    console.log(i)
+    console.log(listaDellaSpesa[i])
+
+    // creo gli elemti li
+    
     const listItem = document.createElement("li")
 
     // assegno contenuto array agli elementi li 
